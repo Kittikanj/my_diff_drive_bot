@@ -51,7 +51,7 @@
             <material name="silver"/>
         </collision>
 
-        <xacro:inertial_box mass="9" x="0.544" y="0.422" z="0.656">
+        <xacro:inertial_box mass="10.0" x="0.544" y="0.422" z="0.656">
             <origin xyz="0.272 0 0.328" rpy="0 0 0"/>
         </xacro:inertial_box>
     </link>

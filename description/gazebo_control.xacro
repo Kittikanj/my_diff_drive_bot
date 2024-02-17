@@ -11,8 +11,8 @@
             <wheel_diameter>0.125</wheel_diameter>
 
             <!-- Limit -->
-            <max_wheel_torque>250</max_wheel_torque>
-            <max_wheel_acceleration>20.0</max_wheel_acceleration>
+            <max_wheel_torque>2.0</max_wheel_torque>
+            <max_wheel_acceleration>3.0</max_wheel_acceleration>
 
             <!-- Output -->
             <odometry_frame>odem</odometry_frame>
