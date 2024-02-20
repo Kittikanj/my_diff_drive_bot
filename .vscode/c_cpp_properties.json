@@ -1,0 +1,27 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/kittikarn/ros2_control_demos/install/ros2_control_demo_example_4/include/**",
+        "/home/kittikarn/ros2_control_demos/install/ros2_control_demo_example_3/include/**",
+        "/home/kittikarn/ros2_control_demos/install/ros2_control_demo_example_2/include/**",
+        "/home/kittikarn/ros2_control_demos/install/ros2_control_demo_example_14/include/**",
+        "/home/kittikarn/ros2_control_demos/install/ros2_control_demo_example_11/include/**",
+        "/home/kittikarn/ros2_control_demos/install/ros2_control_demo_example_1/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/kittikarn/dev_ws/src/diff_drive_controller/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
